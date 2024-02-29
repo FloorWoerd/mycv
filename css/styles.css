@@ -34,6 +34,7 @@ body {
 	width: 1em;
 	margin-left: -1em;
 	color: #fbc308;
+	margin-bottom: 7px;
 }
 
 .biography-details li::before {
