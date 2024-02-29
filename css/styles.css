@@ -28,9 +28,9 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "◘";
 	font-weight: 800;
-	display: inline-block;
+	display: inline-block; 
 	width: 1em;
 	margin-left: -1em;
 	color: #fbc308;
@@ -61,13 +61,13 @@ body {
 }
 .body-headers {
 	font-family: "Chau Philomene One", sans-serif;
-  	font-weight: 400;
+  	font-weight: 100;
   	font-style: normal;
 	color: #2D2C2B;
 }
 .body-headers-white {
 	font-family: "Chau Philomene One", sans-serif;
-  	font-weight: 400;
+  	font-weight: 100;
   	font-style: normal;
 	color: #F6F2E9;
 }
