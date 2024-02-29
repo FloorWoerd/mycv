@@ -33,10 +33,11 @@ body {
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
+	color: #fbc308;
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #fbc308;
 }
 
 .biography-details li, .skill-list li {
