@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #494F6;
+	background-color: #6B709E;
 }
 
 /* Styles for lists in the document */
@@ -49,7 +49,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
-.funky-text {
+.name-text {
 	color: #f6f2e9;
 	text-align: left;
 	margin-top: 20px;
@@ -63,6 +63,42 @@ body {
   	font-weight: 400;
   	font-style: normal;
 	color: #2D2C2B;
-
 }
-
+.body-headers-white {
+	font-family: "Chau Philomene One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	color: #F6F2E9;
+}
+.main-texts {
+	font-family: "Nunito Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300;
+  	font-style: normal;
+  	font-variation-settings:
+    	"wdth" 100,
+    	"YTLC" 500;
+}
+.main-texts-white {
+	color: #F6F2E9;
+	font-family: "Nunito Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300;
+  	font-style: normal;
+  	font-variation-settings:
+    	"wdth" 100,
+    	"YTLC" 500;
+}
+.cb-texts {
+	color: #f6f2e9;
+	font-family: "Nunito Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300;
+  	font-style: normal;
+  	font-variation-settings:
+    	"wdth" 100,
+    	"YTLC" 500;
+}
+a.main-texts {
+	color: #F6F2E9
+}
